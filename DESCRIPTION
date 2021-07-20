@@ -1,12 +1,11 @@
 Package: pdes
 Type: Package
-Title: Numerical solvers for parabolic PDEs, PIDEs and HJB-PDEs
+Title: Numerical solvers for parabolic PDEs
 Version: 0.1.0
 Author: S. Hill
 Maintainer: S. Hill <yourself@somewhere.net>
 Description: Solvers via Monte-Carlo, finite difference, and analytic solutions
-    for parabolic PDE/PIDEs arising from Feynman-Kac or Fokker-Planck problems.
-    Also provided are solvers for HJB-PDEs arising from stochastic control problems.
+    for parabolic PDEs arising from Feynman-Kac or Fokker-Planck problems.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true

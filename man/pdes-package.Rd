@@ -4,10 +4,9 @@
 \name{pdes-package}
 \alias{pdes}
 \alias{pdes-package}
-\title{pdes: Numerical solvers for parabolic PDEs, PIDEs and HJB-PDEs}
+\title{pdes: Numerical solvers for parabolic PDEs}
 \description{
 Solvers via Monte-Carlo, finite difference, and analytic solutions
-    for parabolic PDE/PIDEs arising from Feynman-Kac or Fokker-Planck problems.
-    Also provided are solvers for HJB-PDEs arising from stochastic control problems.
+    for parabolic PDEs arising from Feynman-Kac or Fokker-Planck problems.
 }
 \keyword{internal}
